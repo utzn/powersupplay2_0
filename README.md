@@ -1,7 +1,5 @@
 # ASA PowerSupplay Project Q3 2020
-This is a reproduction of the [paper by Guri](https://arxiv.org/pdf/2005.00395.pdf) using synchronous threads instead of barriers.
-
-  
+This is a reproduction of the [paper by Guri et al.](https://arxiv.org/pdf/2005.00395.pdf), using synchronous threads instead of barriers.
 
 The [modulator](02_modulation/linux.cpp) reads a file and encodes it into a BFSK signal consisting of three parts:
 
